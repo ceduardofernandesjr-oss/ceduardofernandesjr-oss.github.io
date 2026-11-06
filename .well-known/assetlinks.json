@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "br.atos2.biblia",
+        "sha256_cert_fingerprints": ["14:55:A8:DA:53:78:0D:F5:DB:2C:54:16:78:5A:A1:FC:80:25:00:7E:DD:D8:D0:8A:D8:53:0C:67:69:B6:02:82"]
+      }
+    }]
